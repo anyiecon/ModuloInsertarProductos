@@ -1,0 +1,69 @@
+.name{
+    text-shadow:0 0 10px #00a2ff;
+    color: #00a2ff ;
+    text-align: center;
+}
+.container{
+    background-color: #00a2ff; 
+    height: 8px;
+}
+.nameProduct{
+    background-color: #00a2ff;
+    width: 17%;
+    text-align: center;
+    height: 35px;
+}
+.description{
+    background-color: #00a2ff;
+    width: 12%;
+    text-align: center;
+    height: 35px;
+}
+.taskField{
+    width: 40%;
+    height: 120px;
+}
+.taskField:hover{
+    border: 2px solid #000;
+    background-color: #d1d1d1;
+}
+.textName{
+    width: 40%;
+    height: 34px;
+    
+}
+.textName:hover{
+    border: 2px solid #000;
+    background-color: #d1d1d1;
+}
+.descriptionProduct{
+    margin-left: 12%;
+    margin-top: 6%;
+    font-size: 1.5em;
+}
+.statusName,.statusProduct{
+    font-size: 1em;
+}
+.status{
+    background-color: #00a2ff;
+    width: 40%;
+    text-align: center;
+    height: 35px;
+}
+.buttonProduct{
+    background-color: #00a2ff ;
+    font-size: 1em;
+    margin-left: 50%;
+    width: 8%;
+    text-align: center;
+    margin-top: 6%;
+}
+.buttonProduct:hover{
+    cursor: pointer;
+    border: 1px solid #000
+}
+.statusProduct:hover, .statusName:hover{
+    cursor: pointer;
+    border: 2px solid #000
+}
+
